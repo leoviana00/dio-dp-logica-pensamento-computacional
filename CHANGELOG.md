@@ -2,8 +2,11 @@
 
 ## 🚧 Current - Work in progress
 ### 🔀 Merges
-
+*  Merge pull request #2 from leoviana00/feature-dungeon [View](https://github.com/leoviana00/dio-dp-logica-pensamento-computacional/commits/92344b3ff684b0909521472fe3c5ce6488892059)
 ### 🚀 Commits
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-logica-pensamento-computacional/commits/33b214d107d59c608163a4c9f9325d6832765230)
+*  dcos(readme): doc initial [View](https://github.com/leoviana00/dio-dp-logica-pensamento-computacional/commits/561aca9839c5af8dd1a3830dbcaa39b203846bb2)
+*  feat(dungeon): Coleta de Tesouros no Dungeon [View](https://github.com/leoviana00/dio-dp-logica-pensamento-computacional/commits/d26f3800f5c30efde1297d1698a6cee67a384507)
 
 
 
